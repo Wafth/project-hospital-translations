@@ -299,7 +299,7 @@
             <GameDBLocalizedString>      <LocID>REWARD</LocID>                          <Text>Recompensa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_ROOM</LocID>                     <Text>{1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT</LocID>               <Text>{1}</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>Internação em {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>Internação no(a) {1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MONEY_GRANT</LocID>                     <Text>${1} de subsídio do governo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MORE_MOBILE_PATIENTS</LocID>            <Text>Mais {1} pacientes de ambulatório por dia</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MORE_IMMOBILE_PATIENTS</LocID>          <Text>Mais {1} pacientes chegando em uma ambulância por dia</Text>  </GameDBLocalizedString>
